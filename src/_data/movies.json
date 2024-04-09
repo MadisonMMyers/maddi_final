@@ -1,0 +1,74 @@
+{
+  "Movies": [
+    {
+      "Movie": "Aquaman ",
+      "Year": 2018,
+      "Production Company": "Warner Bros, DC Productions",
+      "More": "https://www.imdb.com/title/tt1477834/",
+      "Image": "aquaman_movie.jpg"
+    },
+    {
+      "Movie": "Batman Begins",
+      "Year": 2005,
+      "Production Company": "Warner Bros, DC Productions, Legendary Entertainment",
+      "More": "https://www.imdb.com/title/tt0372784/ ",
+      "Image": "batman_begins_movie.jpg"
+    },
+    {
+      "Movie": "Batman Forever",
+      "Year": 1995,
+      "Production Company": "Warner Bros, Tim Burton Production",
+      "More": "https://www.imdb.com/title/tt0112462/",
+      "Image": "batman_forever_movie.jpg"
+    },
+    {
+      "Movie": "Batman V. Superman: Dawn of Justice",
+      "Year": 2016,
+      "Production Company": "DC Entertainment, Warner Bros",
+      "More": "https://www.imdb.com/title/tt2975590/",
+      "Image": "batman_superman_movie.jpg"
+    },
+    {
+      "Movie": "Justice League",
+      "Year": 2017,
+      "Production Company": "Warner Bros",
+      "More": "https://www.imdb.com/title/tt0974015/",
+      "Image": "justice_league_movie.jpg"
+    },
+    {
+      "Movie": "Man of Steel",
+      "Year": 2013,
+      "Production Company": "Warner Bros, DC Productions, Legendary Entertainment",
+      "More": "https://www.imdb.com/title/tt0770828/",
+      "Image": "manofsteel.jpg"
+    },
+    {
+      "Movie": "Suicide Squad",
+      "Year": 2016,
+      "Production Company": "Warner Bros",
+      "More": "https://www.imdb.com/title/tt1386697/ ",
+      "Image": "suicide_squad_movie.jpg"
+    },
+    {
+      "Movie": "The Batman",
+      "Year": 2022,
+      "Production Company": "Warner Bros",
+      "More": "https://www.imdb.com/title/tt1877830/",
+      "Image": "thebatman_movie.jpg"
+    },
+    {
+      "Movie": "The Dark Knight Rises",
+      "Year": 2012,
+      "Production Company": "DC Entertainment, Warner Bros",
+      "More": "https://www.imdb.com/title/tt1345836/",
+      "Image": "dark_knight_rises_movie.jpg"
+    },
+    {
+      "Movie": "Wonder Woman",
+      "Year": 2017,
+      "Production Company": "DC Entertainment, Warner Bros",
+      "More": "https://www.imdb.com/title/tt0451279/",
+      "Image": "wonderwoman.jpg"
+    }
+  ]
+}
