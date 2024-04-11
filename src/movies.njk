@@ -1,0 +1,25 @@
+{% extends '_templates/base.njk' %}
+
+{% block page_title %}Pirate ships{% endblock %}
+
+{% block page_description %}A list of pirate ships of lore from fact and fiction.{% endblock %}
+
+{% block content %}
+<article class="container">
+  <h1>Popular Movies</h1>
+  <p>Here you will find all the popular DC movies to appease your superhero needs.</p>
+  <div class="row row-cols-1 row-cols-md-2 g-4">
+    {% for film in movies.Movies %}
+    <div class="col">
+      <div class="card">
+        <img src="img/{{film.Image}}" class="card-img-top" alt="movie poster">
+        <div class="card-body">
+          <h5 class="card-title">Card title</h5>
+          <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</article>
+{% endblock %}
