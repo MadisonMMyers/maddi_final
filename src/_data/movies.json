@@ -70,5 +70,22 @@
       "More": "https://www.imdb.com/title/tt0451279/",
       "Image": "wonderwoman_movie.jpg"
     }
+  ],
+  "Homepage": [
+    {
+      "topic": "Teams",
+      "about": "Meet the best teams in DC.",
+      "link": "{{ relative_path }}movies.html",
+      "image": "to finish this in coding go to 26.3 or copy code from movies.njk"
+    },
+    {
+      "topic": "Heros",
+      "about": "Meet the ones who save.",
+      "link": "/\\ maybe like this but double check "
+    },
+    {
+      "topic": "Villians",
+      "about": "Meet those who wreak havoc."
+    }
   ]
 }
