@@ -1,0 +1,24 @@
+{% extends '_templates/base.njk' %}
+{% set relative_path = "../" %}
+{% from '_macros/prose.njk' import prose %}
+
+{% block page_title %}{{ slug }}{% endblock %}
+
+{% block page_description %}{{ name }}Characters page {% endblock %}
+
+{% block content %}
+  <article class="container">
+    <div class="row">
+      <div class="col-sm-4">
+        <img src="../img/pirate.jpg" alt="character photo" class="img-fluid">
+        <p class="byline">{{alias}}<br>
+        <span>{{abilities}}</span></p>
+        <hr class="d-sm-none">
+      </div>
+      <div class="col-sm-8">
+        <h1>{{ name }}</h1>
+        <p>{{history}} <p>
+      </div>
+    </div>
+  </article>
+{% endblock %}

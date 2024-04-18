@@ -1,0 +1,176 @@
+{
+  "heros": [
+    {
+      "slug": "superman",
+      "name": "Superman",
+      "alias": "Clark Kent (Kal-El)",
+      "abilities": "super strength, flight, invulnerability, super speed, heat vision, freeze breath, x-ray vision, superhuman hearing, healing factor",
+      "history": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas a lacinia erat, eu tempor nisi. In ac lacinia neque. Curabitur posuere porttitor sollicitudin. Vestibulum tristique finibus varius. Integer elementum neque nunc, quis blandit magna rutrum vel. Sed tempor et nunc at egestas. Pellentesque sit amet tortor at elit malesuada porta. Nam leo elit, vestibulum at porta a, pharetra at sem. Ut commodo, risus eu lobortis semper, odio libero vehicula magna, ut sodales sem dui ac sem. Morbi pretium rutrum eros et auctor. Curabitur a accumsan justo. Cras tempus turpis in justo tincidunt, eget sagittis sapien tempor. Proin lobortis consequat tortor."
+    },
+    {
+      "slug": "batman",
+      "name": "Batman",
+      "alias": "Bruce Wayne",
+      "abilities": "exceptional martial artist, combat strategy, inexhaustible wealth, brilliant deductive skill, advanced technology",
+      "history": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas a lacinia erat, eu tempor nisi. In ac lacinia neque. Curabitur posuere porttitor sollicitudin. Vestibulum tristique finibus varius. Integer elementum neque nunc, quis blandit magna rutrum vel. Sed tempor et nunc at egestas. Pellentesque sit amet tortor at elit malesuada porta. Nam leo elit, vestibulum at porta a, pharetra at sem. Ut commodo, risus eu lobortis semper, odio libero vehicula magna, ut sodales sem dui ac sem. Morbi pretium rutrum eros et auctor. Curabitur a accumsan justo. Cras tempus turpis in justo tincidunt, eget sagittis sapien tempor. Proin lobortis consequat tortor."
+    },
+    {
+      "slug": "wonder-woman",
+      "name": "Wonder Woman",
+      "alias": "Diana Prince",
+      "abilities": "Leonora Carrington",
+      "history": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas a lacinia erat, eu tempor nisi. In ac lacinia neque. Curabitur posuere porttitor sollicitudin. Vestibulum tristique finibus varius. Integer elementum neque nunc, quis blandit magna rutrum vel. Sed tempor et nunc at egestas. Pellentesque sit amet tortor at elit malesuada porta. Nam leo elit, vestibulum at porta a, pharetra at sem. Ut commodo, risus eu lobortis semper, odio libero vehicula magna, ut sodales sem dui ac sem. Morbi pretium rutrum eros et auctor. Curabitur a accumsan justo. Cras tempus turpis in justo tincidunt, eget sagittis sapien tempor. Proin lobortis consequat tortor."
+    },
+    {
+      "slug": "aquaman",
+      "name": "Aquaman",
+      "alias": "Arthur Curry",
+      "abilities": "super strength, durability, control over sea life, exceptional swimming ability, ability to breathe underwater",
+      "history": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas a lacinia erat, eu tempor nisi. In ac lacinia neque. Curabitur posuere porttitor sollicitudin. Vestibulum tristique finibus varius. Integer elementum neque nunc, quis blandit magna rutrum vel. Sed tempor et nunc at egestas. Pellentesque sit amet tortor at elit malesuada porta. Nam leo elit, vestibulum at porta a, pharetra at sem. Ut commodo, risus eu lobortis semper, odio libero vehicula magna, ut sodales sem dui ac sem. Morbi pretium rutrum eros et auctor. Curabitur a accumsan justo. Cras tempus turpis in justo tincidunt, eget sagittis sapien tempor. Proin lobortis consequat tortor."
+    },
+    {
+      "slug": "the-flash",
+      "name": "The Flash",
+      "alias": "Barry Allen",
+      "abilities": "super speed, intangibility, superhuman agility, time travel, creates and controls lightning, multiversal knowledge",
+      "history": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas a lacinia erat, eu tempor nisi. In ac lacinia neque. Curabitur posuere porttitor sollicitudin. Vestibulum tristique finibus varius. Integer elementum neque nunc, quis blandit magna rutrum vel. Sed tempor et nunc at egestas. Pellentesque sit amet tortor at elit malesuada porta. Nam leo elit, vestibulum at porta a, pharetra at sem. Ut commodo, risus eu lobortis semper, odio libero vehicula magna, ut sodales sem dui ac sem. Morbi pretium rutrum eros et auctor. Curabitur a accumsan justo. Cras tempus turpis in justo tincidunt, eget sagittis sapien tempor. Proin lobortis consequat tortor."
+    },
+    {
+      "slug": "cyborg",
+      "name": "Cyborg",
+      "alias": "Victor Stone",
+      "abilities": "super strength, advanced technology, instant weaponry, genius-level intellect, control over technology, computer hacking, durability, teleportation",
+      "history": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas a lacinia erat, eu tempor nisi. In ac lacinia neque. Curabitur posuere porttitor sollicitudin. Vestibulum tristique finibus varius. Integer elementum neque nunc, quis blandit magna rutrum vel. Sed tempor et nunc at egestas. Pellentesque sit amet tortor at elit malesuada porta. Nam leo elit, vestibulum at porta a, pharetra at sem. Ut commodo, risus eu lobortis semper, odio libero vehicula magna, ut sodales sem dui ac sem. Morbi pretium rutrum eros et auctor. Curabitur a accumsan justo. Cras tempus turpis in justo tincidunt, eget sagittis sapien tempor. Proin lobortis consequat tortor."
+    },
+    {
+      "slug": "starfire",
+      "name": "Starfire",
+      "alias": "Kori Anders (Koriand’r)",
+      "abilities": "High Intelligence Superhuman Strength, Durability, Speed, Accelerating Healing Factor, Ultraviolet Energy Projection, Starbolts, Flight",
+      "history": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas a lacinia erat, eu tempor nisi. In ac lacinia neque. Curabitur posuere porttitor sollicitudin. Vestibulum tristique finibus varius. Integer elementum neque nunc, quis blandit magna rutrum vel. Sed tempor et nunc at egestas. Pellentesque sit amet tortor at elit malesuada porta. Nam leo elit, vestibulum at porta a, pharetra at sem. Ut commodo, risus eu lobortis semper, odio libero vehicula magna, ut sodales sem dui ac sem. Morbi pretium rutrum eros et auctor. Curabitur a accumsan justo. Cras tempus turpis in justo tincidunt, eget sagittis sapien tempor. Proin lobortis consequat tortor."
+    },
+    {
+      "slug": "green-arrow",
+      "name": "The Green Arrow",
+      "alias": "Oliver Queen",
+      "abilities": "archery, unrivaled aim, exceptional martial artist, inexhaustible wealth",
+      "history": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas a lacinia erat, eu tempor nisi. In ac lacinia neque. Curabitur posuere porttitor sollicitudin. Vestibulum tristique finibus varius. Integer elementum neque nunc, quis blandit magna rutrum vel. Sed tempor et nunc at egestas. Pellentesque sit amet tortor at elit malesuada porta. Nam leo elit, vestibulum at porta a, pharetra at sem. Ut commodo, risus eu lobortis semper, odio libero vehicula magna, ut sodales sem dui ac sem. Morbi pretium rutrum eros et auctor. Curabitur a accumsan justo. Cras tempus turpis in justo tincidunt, eget sagittis sapien tempor. Proin lobortis consequat tortor."
+    },
+    {
+      "slug": "beastboy",
+      "name": "Beast Boy",
+      "alias": "Garfield Logan",
+      "abilities": "capable of transforming into any animal, connection to all animal life",
+      "history": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas a lacinia erat, eu tempor nisi. In ac lacinia neque. Curabitur posuere porttitor sollicitudin. Vestibulum tristique finibus varius. Integer elementum neque nunc, quis blandit magna rutrum vel. Sed tempor et nunc at egestas. Pellentesque sit amet tortor at elit malesuada porta. Nam leo elit, vestibulum at porta a, pharetra at sem. Ut commodo, risus eu lobortis semper, odio libero vehicula magna, ut sodales sem dui ac sem. Morbi pretium rutrum eros et auctor. Curabitur a accumsan justo. Cras tempus turpis in justo tincidunt, eget sagittis sapien tempor. Proin lobortis consequat tortor."
+    },
+    {
+      "slug": "raven",
+      "name": "Raven",
+      "alias": "Rachel Roth",
+      "abilities": "darkness manipulation, flight, Astral projection, teleportation, magic, pyrokenisis",
+      "history": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas a lacinia erat, eu tempor nisi. In ac lacinia neque. Curabitur posuere porttitor sollicitudin. Vestibulum tristique finibus varius. Integer elementum neque nunc, quis blandit magna rutrum vel. Sed tempor et nunc at egestas. Pellentesque sit amet tortor at elit malesuada porta. Nam leo elit, vestibulum at porta a, pharetra at sem. Ut commodo, risus eu lobortis semper, odio libero vehicula magna, ut sodales sem dui ac sem. Morbi pretium rutrum eros et auctor. Curabitur a accumsan justo. Cras tempus turpis in justo tincidunt, eget sagittis sapien tempor. Proin lobortis consequat tortor."
+    },
+    {
+      "slug": "nightwing",
+      "name": "Nightwing",
+      "alias": "Richard “Dick” Grayson",
+      "abilities": "exceptional martial artist, brilliant deductive skills, gymnastic ability, peak agility, combat skill, customized weapons",
+      "history": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas a lacinia erat, eu tempor nisi. In ac lacinia neque. Curabitur posuere porttitor sollicitudin. Vestibulum tristique finibus varius. Integer elementum neque nunc, quis blandit magna rutrum vel. Sed tempor et nunc at egestas. Pellentesque sit amet tortor at elit malesuada porta. Nam leo elit, vestibulum at porta a, pharetra at sem. Ut commodo, risus eu lobortis semper, odio libero vehicula magna, ut sodales sem dui ac sem. Morbi pretium rutrum eros et auctor. Curabitur a accumsan justo. Cras tempus turpis in justo tincidunt, eget sagittis sapien tempor. Proin lobortis consequat tortor."
+    }
+  ],
+  "villians": [
+    {
+      "slug": "joker",
+      "name": "The Joker",
+      "alias": "NA",
+      "abilities": "complete unpredictability, chaos agent, customized weapons, wields toxin which causes victims to die laughing",
+      "history": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas a lacinia erat, eu tempor nisi. In ac lacinia neque. Curabitur posuere porttitor sollicitudin. Vestibulum tristique finibus varius. Integer elementum neque nunc, quis blandit magna rutrum vel. Sed tempor et nunc at egestas. Pellentesque sit amet tortor at elit malesuada porta. Nam leo elit, vestibulum at porta a, pharetra at sem. Ut commodo, risus eu lobortis semper, odio libero vehicula magna, ut sodales sem dui ac sem. Morbi pretium rutrum eros et auctor. Curabitur a accumsan justo. Cras tempus turpis in justo tincidunt, eget sagittis sapien tempor. Proin lobortis consequat tortor."
+    },
+    {
+      "slug": "harley-quinn",
+      "name": "Harley Quinn",
+      "alias": "Harleen Quinzel",
+      "abilities": "complete unpredictability, superhuman agility, skilled fighter, intelligence, emotional manipulation, immunity to toxins",
+      "history": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas a lacinia erat, eu tempor nisi. In ac lacinia neque. Curabitur posuere porttitor sollicitudin. Vestibulum tristique finibus varius. Integer elementum neque nunc, quis blandit magna rutrum vel. Sed tempor et nunc at egestas. Pellentesque sit amet tortor at elit malesuada porta. Nam leo elit, vestibulum at porta a, pharetra at sem. Ut commodo, risus eu lobortis semper, odio libero vehicula magna, ut sodales sem dui ac sem. Morbi pretium rutrum eros et auctor. Curabitur a accumsan justo. Cras tempus turpis in justo tincidunt, eget sagittis sapien tempor. Proin lobortis consequat tortor."
+    },
+    {
+      "slug": "lex-luthor",
+      "name": "Lex Luthor",
+      "alias": "Lex Luthor",
+      "abilities": "genius-level intellect, inexhaustible wealth, political influence",
+      "history": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas a lacinia erat, eu tempor nisi. In ac lacinia neque. Curabitur posuere porttitor sollicitudin. Vestibulum tristique finibus varius. Integer elementum neque nunc, quis blandit magna rutrum vel. Sed tempor et nunc at egestas. Pellentesque sit amet tortor at elit malesuada porta. Nam leo elit, vestibulum at porta a, pharetra at sem. Ut commodo, risus eu lobortis semper, odio libero vehicula magna, ut sodales sem dui ac sem. Morbi pretium rutrum eros et auctor. Curabitur a accumsan justo. Cras tempus turpis in justo tincidunt, eget sagittis sapien tempor. Proin lobortis consequat tortor."
+    },
+    {
+      "slug": "cheetah",
+      "name": "Cheetah",
+      "alias": "Barbara Ann Minerva",
+      "abilities": "super strength, superhuman agility, skilled fighter, razor-sharp teeth and claws, severe bloodlust",
+      "history": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas a lacinia erat, eu tempor nisi. In ac lacinia neque. Curabitur posuere porttitor sollicitudin. Vestibulum tristique finibus varius. Integer elementum neque nunc, quis blandit magna rutrum vel. Sed tempor et nunc at egestas. Pellentesque sit amet tortor at elit malesuada porta. Nam leo elit, vestibulum at porta a, pharetra at sem. Ut commodo, risus eu lobortis semper, odio libero vehicula magna, ut sodales sem dui ac sem. Morbi pretium rutrum eros et auctor. Curabitur a accumsan justo. Cras tempus turpis in justo tincidunt, eget sagittis sapien tempor. Proin lobortis consequat tortor."
+    },
+    {
+      "slug": "catwoman",
+      "name": "Catwoman",
+      "alias": "Selina Kyle",
+      "abilities": "exceptional martial artist, gymnastic ability, combat skill, master thief and cat burglar, customized weapons",
+      "history": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas a lacinia erat, eu tempor nisi. In ac lacinia neque. Curabitur posuere porttitor sollicitudin. Vestibulum tristique finibus varius. Integer elementum neque nunc, quis blandit magna rutrum vel. Sed tempor et nunc at egestas. Pellentesque sit amet tortor at elit malesuada porta. Nam leo elit, vestibulum at porta a, pharetra at sem. Ut commodo, risus eu lobortis semper, odio libero vehicula magna, ut sodales sem dui ac sem. Morbi pretium rutrum eros et auctor. Curabitur a accumsan justo. Cras tempus turpis in justo tincidunt, eget sagittis sapien tempor. Proin lobortis consequat tortor."
+    },
+    {
+      "slug": "black-manta",
+      "name": "Black Manta",
+      "alias": "David Hyde",
+      "abilities": "enhanced strength, energy blasts, skilled fighter, unrivaled swimmer, master swordsman, advanced technology, intelligence",
+      "history": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas a lacinia erat, eu tempor nisi. In ac lacinia neque. Curabitur posuere porttitor sollicitudin. Vestibulum tristique finibus varius. Integer elementum neque nunc, quis blandit magna rutrum vel. Sed tempor et nunc at egestas. Pellentesque sit amet tortor at elit malesuada porta. Nam leo elit, vestibulum at porta a, pharetra at sem. Ut commodo, risus eu lobortis semper, odio libero vehicula magna, ut sodales sem dui ac sem. Morbi pretium rutrum eros et auctor. Curabitur a accumsan justo. Cras tempus turpis in justo tincidunt, eget sagittis sapien tempor. Proin lobortis consequat tortor."
+    },
+    {
+      "slug": "poison-ivy",
+      "name": "Poison Ivy",
+      "alias": "Dr. Pamela Lillian Isley",
+      "abilities": "control over plant life, intelligence, immunity to toxins, pheromone usage, secretes deadly toxins",
+      "history": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas a lacinia erat, eu tempor nisi. In ac lacinia neque. Curabitur posuere porttitor sollicitudin. Vestibulum tristique finibus varius. Integer elementum neque nunc, quis blandit magna rutrum vel. Sed tempor et nunc at egestas. Pellentesque sit amet tortor at elit malesuada porta. Nam leo elit, vestibulum at porta a, pharetra at sem. Ut commodo, risus eu lobortis semper, odio libero vehicula magna, ut sodales sem dui ac sem. Morbi pretium rutrum eros et auctor. Curabitur a accumsan justo. Cras tempus turpis in justo tincidunt, eget sagittis sapien tempor. Proin lobortis consequat tortor."
+    },
+    {
+      "slug": "deathstroke",
+      "name": "Deathstroke",
+      "alias": "Slade Wilson",
+      "abilities": "exceptional martial artist, combat strategy, durability, enhanced strength and speed, weapons expert, superhuman agility, master swordsman",
+      "history": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas a lacinia erat, eu tempor nisi. In ac lacinia neque. Curabitur posuere porttitor sollicitudin. Vestibulum tristique finibus varius. Integer elementum neque nunc, quis blandit magna rutrum vel. Sed tempor et nunc at egestas. Pellentesque sit amet tortor at elit malesuada porta. Nam leo elit, vestibulum at porta a, pharetra at sem. Ut commodo, risus eu lobortis semper, odio libero vehicula magna, ut sodales sem dui ac sem. Morbi pretium rutrum eros et auctor. Curabitur a accumsan justo. Cras tempus turpis in justo tincidunt, eget sagittis sapien tempor. Proin lobortis consequat tortor."
+    },
+    {
+      "slug": "captain-boomerang",
+      "name": "Captain Boomerang",
+      "alias": "Digger Harkness",
+      "abilities": "boomerang throwing, unrivaled aim, combat skill, complete unpredictability",
+      "history": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas a lacinia erat, eu tempor nisi. In ac lacinia neque. Curabitur posuere porttitor sollicitudin. Vestibulum tristique finibus varius. Integer elementum neque nunc, quis blandit magna rutrum vel. Sed tempor et nunc at egestas. Pellentesque sit amet tortor at elit malesuada porta. Nam leo elit, vestibulum at porta a, pharetra at sem. Ut commodo, risus eu lobortis semper, odio libero vehicula magna, ut sodales sem dui ac sem. Morbi pretium rutrum eros et auctor. Curabitur a accumsan justo. Cras tempus turpis in justo tincidunt, eget sagittis sapien tempor. Proin lobortis consequat tortor."
+    }
+  ],
+  "teams": [
+    {
+      "slug": "justice-league",
+      "name": "The Justice League",
+      "teammates": "Superman, Batman, Wonderwoman, Green Arrow, Aquaman, The Flash",
+      "appearance": "The Brave and The Bold #28 (1960)",
+      "history": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas a lacinia erat, eu tempor nisi. In ac lacinia neque. Curabitur posuere porttitor sollicitudin. Vestibulum tristique finibus varius. Integer elementum neque nunc, quis blandit magna rutrum vel. Sed tempor et nunc at egestas. Pellentesque sit amet tortor at elit malesuada porta. Nam leo elit, vestibulum at porta a, pharetra at sem. Ut commodo, risus eu lobortis semper, odio libero vehicula magna, ut sodales sem dui ac sem. Morbi pretium rutrum eros et auctor. Curabitur a accumsan justo. Cras tempus turpis in justo tincidunt, eget sagittis sapien tempor. Proin lobortis consequat tortor."
+    },
+    {
+      "slug": "suicide-squad",
+      "name": "The Suicide Squad",
+      "teammates": "Captain Boomerang, Harley Quinn, Deathstroke,",
+      "appearance": "The Brave and The Bold #25 (1959)",
+      "history": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas a lacinia erat, eu tempor nisi. In ac lacinia neque. Curabitur posuere porttitor sollicitudin. Vestibulum tristique finibus varius. Integer elementum neque nunc, quis blandit magna rutrum vel. Sed tempor et nunc at egestas. Pellentesque sit amet tortor at elit malesuada porta. Nam leo elit, vestibulum at porta a, pharetra at sem. Ut commodo, risus eu lobortis semper, odio libero vehicula magna, ut sodales sem dui ac sem. Morbi pretium rutrum eros et auctor. Curabitur a accumsan justo. Cras tempus turpis in justo tincidunt, eget sagittis sapien tempor. Proin lobortis consequat tortor."
+    },
+    {
+      "slug": "teen-titans",
+      "name": "The Teen Titans",
+      "teammates": "Nightwing, Starfire, Cyborg, Raven, Beastboy",
+      "appearance": "The Brave and The Bold #54 (1964)",
+      "history": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas a lacinia erat, eu tempor nisi. In ac lacinia neque. Curabitur posuere porttitor sollicitudin. Vestibulum tristique finibus varius. Integer elementum neque nunc, quis blandit magna rutrum vel. Sed tempor et nunc at egestas. Pellentesque sit amet tortor at elit malesuada porta. Nam leo elit, vestibulum at porta a, pharetra at sem. Ut commodo, risus eu lobortis semper, odio libero vehicula magna, ut sodales sem dui ac sem. Morbi pretium rutrum eros et auctor. Curabitur a accumsan justo. Cras tempus turpis in justo tincidunt, eget sagittis sapien tempor. Proin lobortis consequat tortor."
+    },
+    {
+      "slug": "injustice-league",
+      "name": "Injustice League",
+      "teammates": "The Joker, Lex Luther, Catwoman, Black Manta, Cheetah",
+      "appearance": "Justice League International #23 (1989)",
+      "history": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas a lacinia erat, eu tempor nisi. In ac lacinia neque. Curabitur posuere porttitor sollicitudin. Vestibulum tristique finibus varius. Integer elementum neque nunc, quis blandit magna rutrum vel. Sed tempor et nunc at egestas. Pellentesque sit amet tortor at elit malesuada porta. Nam leo elit, vestibulum at porta a, pharetra at sem. Ut commodo, risus eu lobortis semper, odio libero vehicula magna, ut sodales sem dui ac sem. Morbi pretium rutrum eros et auctor. Curabitur a accumsan justo. Cras tempus turpis in justo tincidunt, eget sagittis sapien tempor. Proin lobortis consequat tortor."
+    }
+  ]
+}

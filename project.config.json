@@ -14,6 +14,11 @@
       "fileId": "1NRifscRJBmgky5CD1GHD0XqQ_DOn_IwSjZAcF_ysEj4",
       "type": "sheet",
       "name": "movies"
+    },
+    {
+      "fileId": "1dbwKUG5-o04RD2n13gvul5Vs8lksJuteQShSE9nd__c",
+      "type": "doc",
+      "name": "characters"
     }
   ],
   "to_bake": [
@@ -23,6 +28,27 @@
       "array": "books",
       "slug": "slug",
       "path": "books"
+    },   
+    {
+      "template": "bake-character",
+      "data": "characters",
+      "array": "heros",
+      "slug": "slug",
+      "path": "heros"
+    },   
+    {
+      "template": "bake-character",
+      "data": "characters",
+      "array": "villians",
+      "slug": "slug",
+      "path": "villians"
+    },   
+    {
+      "template": "bake-teams",
+      "data": "characters",
+      "array": "teams",
+      "slug": "slug",
+      "path": "teams"
     }
   ]
 }

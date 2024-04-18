@@ -1,0 +1,26 @@
+{% extends '_templates/base.njk' %}
+
+{% block page_title %}Character Log{% endblock %}
+
+{% block page_description %}{% endblock %}
+
+{% block content %}
+<div class="container">
+  <h1>The Character Log</h1>
+  <p>This is where you can look through all the best Heros and Villians in the DC universe. Browse wisley, there are some powerful beings in here.</p>
+  <h2>Heros</h2>
+  <hr>
+  {% for log in characters.heros %}
+    <h3><a href="heros/{{ log.slug }}.html">{{ log.name }}</a></h3>
+    <p>{{ log.alias }}</p>
+    <hr>
+  {% endfor %}
+  <h2>Villians</h2>
+  <hr>
+     {% for log2 in characters.villians %}
+    <h3><a href="villians/{{ log2.slug }}.html">{{ log2.name }}</a></h3>
+    <p>{{ log2.alias }}</p>
+    <hr>
+  {% endfor %}
+</div>
+{% endblock %}
