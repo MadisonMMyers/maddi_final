@@ -10,8 +10,8 @@
     <h1>The Character Log</h1>
     <p>This is where you can look through all the best Heros and Villians in the DC universe. Browse wisely, there are some powerful beings in here.</p>
   </div>
-  <div class="row justify-content-start">
-    <div class="col-4">
+  <div class="list-group list-group-horizontal">
+    <div class="list-group-item">
       <h2>Heros</h2>
       <hr>
       {% for log in characters.heros %}
@@ -20,10 +20,8 @@
       <hr>
       {% endfor %}
     </div>
-  </div>
-  <div class= row justify-content-start>
-    <h2>Villians</h2>
-    <div class="col-4">
+    <div class="list-group-item">
+      <h2>Villians</h2>
       <hr>
         {% for log2 in characters.villians %}
         <h3><a href="villians/{{ log2.slug }}.html">{{ log2.name }}</a></h3>

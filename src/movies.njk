@@ -11,14 +11,14 @@
   <div class="row row-cols-1 row-cols-md-2 g-4 row-cols-lg-3">
     {% for film in movies.Movies %}
     <div class="col">
-      <div class="card border-info text-bg-secondary h-100">
+      <div class="card border-info text-bg-info h-100">
         <img src="img/{{film.Image}}" class="card-img-top" alt="movie poster">
         <div class="card-body">
           <h5 class="card-title">{{film.Movie}}</h5>
           <h6 class="card-title">{{film.Year}}</h6>
           <p class="card-text">{{film.Production_company}}</p>
         </div>
-        <div class="card-footer border-info text-bg-light">
+        <div class="card-footer border-info text-bg-secondary">
           <a href="{{ film.More }}" class="card-link">More about the movie</a>
         </div>
       </div>
