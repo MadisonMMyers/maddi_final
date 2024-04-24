@@ -13,8 +13,8 @@
     <div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 g-4">
     {% for group in characters.teams %}
   <div class="col">
-    <div class="card h-100">
-      <img src="..." class="card-img-top" alt="Team Photo">
+    <div class="card border-info text-bg-success h-100">
+      <img src="../img/{{ group.image }}" class="card-img-top" alt="Team Photo">
       <div class="card-body">
         <h5 class="card-title">{{group.name}}</h5>
         <p class="card-text">First Appearance: {{group.appearance}}</p>

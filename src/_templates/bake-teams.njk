@@ -8,11 +8,13 @@
 {% block content %}
   <article class="container">
     <div class="row">
-      <div class="col-sm-8">
+      <div class="col-sm-4">
         <img src="../img/{{ image }}" alt="Team Photo" class="img-fluid mb-4">
-        <p class="byline">{{teammates}}<br>
-        <span>{{appearance}}</span></p>
+      </div>
+      <div class="col-sm-8">
         <h1>{{ name }}</h1>
+        <p class="byline"> Team: {{teammates}}<br>
+        <span> First Appearance: {{appearance}}</span></p>
         <p>{{history}}<p>
       </div>
     </div>
