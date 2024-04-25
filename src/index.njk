@@ -3,6 +3,8 @@
 
 {% block page_title %}Home Page{% endblock %}
 
+{% block page_description %}{% endblock %}
+
 {% block content %}
 <div class="container">
   <div class="row justify-content-center">
@@ -10,20 +12,21 @@
       <h1>A Place Where DC Lovers Are Welcome</h1>
       <p>Here you will find everything you need to get your fix on all things DC. Below you will find some of the best Teams.</p>
     </div>
-    <div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 g-4">
+  </div>
+  <h1>Teams</h1>
+  <div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 g-4">
     {% for group in characters.teams %}
-  <div class="col">
-    <div class="card border-info text-bg-success h-100">
-      <img src="../img/{{ group.image }}" class="card-img-top" alt="Team Photo">
-      <div class="card-body">
-        <h5 class="card-title">{{group.name}}</h5>
-        <p class="card-text">First Appearance: {{group.appearance}}</p>
-        <a class="btn btn-primary" href="teams/{{ group.slug }}.html" role="button">Learn More</a>
+    <div class="col">
+      <div class="card border-info text-bg-success h-100">
+        <img src="../img/{{ group.image }}" class="card-img-top" alt="Team Photo">
+        <div class="card-body">
+          <h5 class="card-title">{{group.name}}</h5>
+          <p class="card-text">FIRST APPEARANCE: {{group.appearance}}</p>
+          <a class="btn btn-primary" href="teams/{{ group.slug }}.html" role="button">Learn More</a>
+        </div>
       </div>
     </div>
-  </div>
-  {% endfor %}
-</div>
+    {% endfor %}
   </div>
 </div>
 {% endblock %}

@@ -1,9 +1,10 @@
 {% extends '_templates/base.njk' %}
 {% set relative_path = "../" %}
+{% from '_macros/prose.njk' import prose %}
 
-{% block page_title %}{{ headline }}{% endblock %}
+{% block page_title %}{{ name }}{% endblock %}
 
-{% block page_description %}{{ slug }} Team Name{% endblock %}
+{% block page_description %}{{ slug }}Team Name{% endblock %}
 
 {% block content %}
   <article class="container">
@@ -13,8 +14,8 @@
       </div>
       <div class="col-sm-8">
         <h1>{{ name }}</h1>
-        <p class="byline"> Team: {{teammates}}<br>
-        <span> First Appearance: {{appearance}}</span></p>
+        <p class="byline"> TEAM: {{teammates}}<br>
+        <span> FIRST APPEARANCE: {{appearance}}</span></p>
         <p>{{history}}<p>
       </div>
     </div>

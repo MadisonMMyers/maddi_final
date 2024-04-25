@@ -1,2 +1,10 @@
 /* nav */
 
+.navbar a:hover {
+color: red;
+}
+
+.navbar a:active {
+  color: red;
+  text-decoration: underline;
+}
