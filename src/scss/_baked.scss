@@ -1,0 +1,32 @@
+/* this is mostly for baked pages */
+
+.play-regular {
+  font-family: "Play", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.play-bold {
+  font-family: "Play", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 200 to 900
+
+.reddit-mono-comic {
+  font-family: "Reddit Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+
+h1 {
+  font-family: "Play", sans-serif;
+}
+
+p {
+  font-family: "Reddit Mono", monospace;
+}

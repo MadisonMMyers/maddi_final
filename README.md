@@ -1,3 +1,9 @@
+### this is the links to data I made
+
+This is the Google Sheet: (https://docs.google.com/spreadsheets/d/1NRifscRJBmgky5CD1GHD0XqQ_DOn_IwSjZAcF_ysEj4/edit?usp=sharing) 
+
+This is the Google Doc: (https://docs.google.com/document/d/1dbwKUG5-o04RD2n13gvul5Vs8lksJuteQShSE9nd__c/edit?usp=sharing)
+
 # ICJ Project Rig
 
 This project rig was developed for the [Intro to Coding for Journalists](https://github.com/utdata/icj-class) class taught at different times by two different professors in the School of Journalism and Media, Moody College of Communication, University of Texas at Austin:
